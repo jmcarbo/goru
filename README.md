@@ -1,0 +1,2 @@
+# goru
+Golang code analyser
